@@ -1,4 +1,10 @@
 # Programas en c++ de Porozo Jose
-# Imformacion del autor
+##Imformacion del autor
 
 gmail: jose.porozo.caicedo@utelvt.edu.ecu
+
+
+#Instalacion 
+
+
+## Descargar
