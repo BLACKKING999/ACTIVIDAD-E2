@@ -1,2 +1,4 @@
-# ACTIVIDAD-E2
-Programa de la ACTIVIDAD-C2
+# Programas en c++ de Porozo Jose
+# Imformacion del autor
+
+gmail: jose.porozo.caicedo@utelvt.edu.ecu
