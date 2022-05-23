@@ -3,7 +3,8 @@
 `Autor: Porozo Jose`
 
 `correo: jose.porozo.caicedo@utelvt.edu.ec`
- `link al video de la actividad B1` https://youtu.be/F5YhvYjfpmU
+ `link al video de la actividad B1` 
+ https://youtu.be/F5YhvYjfpmU
 
 ## Programas 
 ### Compara dos numero
