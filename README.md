@@ -23,7 +23,7 @@ if(PJ_A<PJ_B)   a es el mayor
 ### Punto de venta 
 ### Cuenta moneda
 
-## Instalacion [![4792177.png](https://i.postimg.cc/cL56z9dD/4792177.png)](https://postimg.cc/4YVJ717t)
+## Instalacion 
 ### Descargar el repositorio
 1.- clonar el repositorio en la maquina local.
 
@@ -40,3 +40,6 @@ g++  PorozoJosé-Compara.cpp -o PorozoJosé-Compara
 ```
 ./PorozoJosé-Compara
 ```
+##Datos Extras
+
+[![kali-iso-special-features.png](https://i.postimg.cc/7LH8gDFd/kali-iso-special-features.png)](https://postimg.cc/xX44QrT3) [![2-1-es.png](https://i.postimg.cc/sxYCYX2F/2-1-es.png)](https://postimg.cc/7JZRDq7X)
