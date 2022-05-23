@@ -23,7 +23,7 @@ if(PJ_A<PJ_B)   a es el mayor
 ### Punto de venta 
 ### Cuenta moneda
 
-## Instalacion ![image](https://user-images.githubusercontent.com/100953458/169900864-b2bc569c-6c61-47fd-b64b-1cc788821d72.png)
+## Instalacion 
 ### Descargar el repositorio
 1.- clonar el repositorio en la maquina local.
 
