@@ -16,8 +16,8 @@ float PJ_A, PJ_B;
 ```
 #### Salida
 ```
-if(PJ_A==PJ_B)  son iguales
-if(PJ_A<PJ_B)   a es el mayor
+if(PJ_A==PJ_B);  son iguales
+if(PJ_A<PJ_B);   a es el mayor
 ```
 
 ### Suma de varios numero 
