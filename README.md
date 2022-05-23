@@ -41,7 +41,9 @@ g++  PorozoJosé-Compara.cpp -o PorozoJosé-Compara
 ./PorozoJosé-Compara
 ```
 # Datos Extras
-### sistema operativo
-[![kali-iso-special-features.png](https://i.postimg.cc/7LH8gDFd/kali-iso-special-features.png)](https://postimg.cc/xX44QrT3)             [![2-1-es.png](https://i.postimg.cc/sxYCYX2F/2-1-es.png)](https://postimg.cc/7JZRDq7X)                                
+#### sistema operativo
+
+[![kali-iso-special-features.png](https://i.postimg.cc/7LH8gDFd/kali-iso-special-features.png)](https://postimg.cc/xX44QrT3)  
+
 #### Editor de codigos
- [![74cd930bcfd753b83b8145d3ff8fdb0e.jpg](https://i.postimg.cc/CdpL0XR0/74cd930bcfd753b83b8145d3ff8fdb0e.jpg)](https://postimg.cc/xNgSysGp) 
+ [![74cd930bcfd753b83b8145d3ff8fdb0e.jpg](https://i.postimg.cc/CdpL0XR0/74cd930bcfd753b83b8145d3ff8fdb0e.jpg)](https://postimg.cc/xNgSysGp) [![2-1-es.png](https://i.postimg.cc/sxYCYX2F/2-1-es.png)](https://postimg.cc/7JZRDq7X)                                
