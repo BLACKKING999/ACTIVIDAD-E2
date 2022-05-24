@@ -70,13 +70,13 @@ Diagrama de flujo y programa en C++ que permita ingresar varias monedas de 3 tip
 ```
 #### Salida
 ```
-cout<<"Usted cuenta con "<<PJ_A<< "Moneda y un total de"<<PJ_A<<" moneda"<<endl; Nos da el numero de monedas y el total
+if(PJ_t==PJ_D)  Nos da el numero de monedas y el total
 
-cout<<"Usted cuenta con "<<PJ_A1<<"Moneda de $0.10 que suman"<<PJ_A1<<" moneda"<<endl; El total de monedad de 10 centavos
+if(PJ_t==PJ_D1) El total de monedad de 10 centavos
 
-cout<<"Usted cuenta con "<<PJ_A2<<"Moneda de $0.25 que suman"<<PJ_A2<<" moneda"<<endl; El total de monedad de 25 centavos
+if(PJ_t==PJ_D2) El total de monedad de 25 centavos
 
-cout<<"Usted cuenta con "<<PJ_A3<<"Moneda de $0.50 y un total de"<<PJ_A3<<"moneda"<<endl; El total de monedad de 50 centavos
+while(PJ_A<PJ_c) El total de monedad de 50 centavos
 
 ```
 
