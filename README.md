@@ -32,7 +32,7 @@ float IN,ACUM=0
 ```
 #### Salida
 ```
-cout<< "El resultado de la suma total es igual: "<<ACUM<<endl  esta línea de código muestra el resultado de la suma
+cout<< "El resultado de la suma total es igual:"<<ACUM<<endl esta línea de código muestra el resultado de la suma
 ```
 ### Calculo de la edad 
 #### Descripción del problema
