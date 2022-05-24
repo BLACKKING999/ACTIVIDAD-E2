@@ -7,9 +7,9 @@
  https://youtu.be/F5YhvYjfpmU
 
 ## Programas 
-### Compara dos numero
-#### Descripcion del problema
-Este progrma en c++ permite comparar dos numero y determaniar si son igual o cual es el mayor.
+### Compara dos números 
+#### Descripción del problema
+Diagrama de flujo y programa en C++ que permita ingresar dos valores y los compara para saber cuál es el mayor en caso de que sean iguales, indique que son iguales.
 #### Funcionalidad 
 ```
 float PJ_A, PJ_B;
@@ -19,14 +19,67 @@ float PJ_A, PJ_B;
 if(PJ_A==PJ_B)  son iguales
 if(PJ_A<PJ_B)   a es el mayor
 ```
-
 ### Suma de varios numero 
+#### Descripción del problema
+Diagrama de flujo y programa en C++  en C++ que permite sumar varios números el usuario debe ingresar la cantidad de número que quiere sumar y el programa debe mostrar la suma total de los números.
+#### Funcionalidad 
+```
+int CONT=0,NU;
+	
+float IN,ACUM=0
+```
+#### Salida
+```
+cout<< "El resultado de la suma total es igual: "<<ACUM<<endl  esta línea de código muestra el resultado de la suma
+```
 ### Calculo de la edad 
+#### Descripción del problema
+Diagrama de flujo y programa en C++ que permite calcular de edad de una persona, el programa debe permitir ingresar la fecha actual, la fecha de nacimiento y mostrar cuantos años, meses y días tiene la persona.
+#### Funcionalidad 
+```
+int PJ_ap,PJ_mp,PJ_dp,PJ_an,PJ_mn,PJ_dn,PJ_a,PJ_m,PJ_d;
+```
+#### Salida
+```
+cout<<"La persona tiene :"<<PJ_a<<" años "<<PJ_m<< " meses "<<PJ_d<< " dias "<<endl; 
+El programa muestra la fecha de nacimiento formato aaaa/mm/dd cumplidos 
+```
 ### Punto de venta 
-### Cuenta moneda
+#### Descripción del problema
+Diagrama de flujo y programa en C++ que permita ingresar el precio de varios productos y calculo el IVA a cobrar el descuento y el valor final a pagar, el programa mostrara total valor bruto, valor del IVA, valor del descuento y valor final a pagar.
+#### Funcionalidad 
+```
+float PJ_x,PJ_c=0,PJ_B=0,PJ_Pr,PJ_Vb,PJ_Viva,PJ_Vdes,PJ_Vf,PJ_I=0.12,PJ_R=0.10;
+```
+#### Salida
+```
+   cout<<PJ_Vf<<endl;  nos arroja el valor final a pagar
 
-## Instalacion 
-### Descargar el repositorio
+```
+### Cuenta moneda
+#### Descripción del problema
+Diagrama de flujo y programa en C++ que permita ingresar varias monedas de 3 tipos diferentes (10ctv, 25ctv,50ctv) y presentara cuantas monedas de cada denominación se ingresaron, cuanto es la cantidad en dinero de cada denominación; así como la cantidad de dinero total que se ingresaron.
+#### Funcionalidad 
+```
+ int PJ_c,PJ_A=0,PJ_A1=0,PJ_A2=0,PJ_A3=0;
+   
+ float PJ_t,PJ_B=0,PJ_B1=0,PJ_B2=0,PJ_B3=0,PJ_D=0.10, PJ_D1=0.25, PJ_D2=0.50;
+   
+```
+#### Salida
+```
+cout<<"Usted cuenta con "<<PJ_A<< "Moneda y un total de"<<PJ_A<<" moneda"<<endl; Nos da el numero de monedas y el total
+
+cout<<"Usted cuenta con "<<PJ_A1<<"Moneda de $0.10 que suman"<<PJ_A1<<" moneda"<<endl; El total de monedad de 10 centavos
+
+cout<<"Usted cuenta con "<<PJ_A2<<"Moneda de $0.25 que suman"<<PJ_A2<<" moneda"<<endl; El total de monedad de 25 centavos
+
+cout<<"Usted cuenta con "<<PJ_A3<<"Moneda de $0.50 y un total de"<<PJ_A3<<"moneda"<<endl; El total de monedad de 50 centavos
+
+```
+
+## Instalación  
+### Descripción del problema
 1.- clonar el repositorio en la maquina local.
 
 ```
